@@ -1,0 +1,9 @@
+[package]
+name = "futures-checkout"
+version = "0.1.0"
+authors = ["Kyle Huey <khuey@kylehuey.com>"]
+license = "MIT/Apache-2.0"
+repository = "https://github.com/khuey/futures-checkout"
+
+[dependencies]
+futures = "0.1.18"
